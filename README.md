@@ -34,8 +34,8 @@ I'm a full-stack mobile developer with experience in Ionic, Flutter, and React. 
 Year of XP:
 - JavaScript: 2.7
 - React: 1.9
-- Flutter: 1.0 Currently working
-- Java: 0.9 Currently working
+- Flutter: 2.4 Currently working
+- Java: 1.3 Currently working
 - Ionic: 0.9
 - Jquery: 0.9
 - Node: 0.8
