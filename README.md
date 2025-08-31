@@ -25,53 +25,22 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="HTML5" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS3" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="JavaScript" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="TypeScript" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-
-  <img align="center" alt="React" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="CRA" height="40" width="50"
-       src="https://skillicons.dev/icons?i=react">
-
-  <img align="center" alt="ViteJS" height="40" width="50"
-       src="https://vitejs.dev/logo.svg">
-
-  <img align="center" alt="NodeJS" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-  <img align="center" alt="Python" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img align="center" alt="Java" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-  <img align="center" alt="Csharp" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-
-  <img align="center" alt="n8n" height="40" width="50"
-       src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
-
-  <img align="center" alt="Insomnia" height="40" width="50"
-       src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg">
-
-  <img align="center" alt="PostgreSQL" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-  <img align="center" alt="Workbench" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-
-  <img align="center" alt="Docker" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-       
-  <img align="center" alt="Git" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS3" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="JavaScript" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="TypeScript" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"><img align="center" alt="React" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><img align="center" alt="CRA" height="40" width="50"
+       src="https://skillicons.dev/icons?i=react"><img align="center" alt="ViteJS" height="40" width="50"
+       src="https://vitejs.dev/logo.svg"><img align="center" alt="NodeJS" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><img align="center" alt="Python" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="Java" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img align="center" alt="Csharp" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img align="center" alt="n8n" height="40" width="50"
+       src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4"><img align="center" alt="Insomnia" height="40" width="50"
+       src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg">  <img align="center" alt="PostgreSQL" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">  <img align="center" alt="Workbench" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="Docker" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><img align="center" alt="Git" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </div>
