@@ -71,8 +71,3 @@
   </a>
 </div>  
 
----
-
-### 🐍 Snake de Contribuições  
-
-![Snake animation](https://github.com/Matheus-TecDev/Matheus-TecDev/blob/output/github-contribution-grid-snake.svg)
