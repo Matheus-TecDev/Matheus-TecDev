@@ -24,5 +24,5 @@ Sistema próprio para abertura, acompanhamento e gestão de chamados, estruturad
 ## Contato
 
 - GitHub: [Matheus-TecDev](https://github.com/Matheus-TecDev)
-- LinkedIn: [matheusfreiredev]([https://github.com/Matheus-TecDev](https://www.linkedin.com/in/matheusfreiredev/))
+- LinkedIn: [matheusfreiredev](https://www.linkedin.com/in/matheusfreiredev/)
 - Email: matheus.tecnodev@gmail.com
