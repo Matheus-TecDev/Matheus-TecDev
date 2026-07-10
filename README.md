@@ -1,40 +1,75 @@
 # Matheus Freire
 
-**Backend • Infrastructure • Deployment**
+### Backend Engineer | Cloud & Infrastructure
 
-I work across software development, infrastructure, technical support, networking, databases, and application deployments.  
-My focus is building deeper expertise in backend engineering, software architecture, Linux, Docker, cloud computing, security, observability, and DevOps.
+I build backend systems and production-oriented infrastructure using Python, FastAPI, PostgreSQL, Docker, Linux, and AWS.
 
-## Core Stack
+My work focuses on reliable APIs, asynchronous processing, observability, security, and cloud-native architecture.
 
-**Backend:** Python, FastAPI, REST APIs, JWT  
-**Infrastructure:** Linux, Docker, Docker Compose, Nginx  
-**Databases:** PostgreSQL, MySQL, Firebird, SQL  
-**Frontend:** React, Vite, JavaScript, TypeScript  
-**Currently advancing:** AWS, CI/CD, security, and observability
+## Technology Stack
+
+**Backend and data**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+</p>
+
+**Cloud and infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+**Observability**
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+</p>
+
+> **Current focus:** building production-oriented services with **Go**, advancing in **AWS**, and deepening CI/CD, security, and distributed systems expertise.
 
 ## Featured Projects
 
-### Relay
+### [Relay](https://github.com/Matheus-TecDev/Relay)
 
-An event-driven platform for reliable asynchronous processing, featuring Transactional Outbox, RabbitMQ workers, retries, a Dead Letter Queue, idempotent consumers, distributed tracing, metrics, centralized logs, and alerting.
+Event-driven processing platform with Transactional Outbox, RabbitMQ domain workers, progressive retries, DLQ operations, idempotent consumers, distributed tracing, centralized logs, metrics, and alerting.
 
-[View repository](https://github.com/Matheus-TecDev/Relay)
+`FastAPI` · `RabbitMQ` · `PostgreSQL` · `Redis` · `OpenTelemetry` · `Prometheus` · `Grafana`
 
-### Sentinela
+### [Sentinela](https://github.com/Matheus-TecDev/Sentinela)
 
-A full-stack monitoring platform for APIs and internal services, with scheduled health checks, incident tracking, webhook notifications, role-based access control, and an integrated observability stack.
+Full-stack monitoring platform for APIs and internal services with scheduled health checks, incident tracking, webhook notifications, RBAC, metrics, and centralized logs.
 
-[View repository](https://github.com/Matheus-TecDev/Sentinela)
+`FastAPI` · `PostgreSQL` · `APScheduler` · `Docker` · `Prometheus` · `Grafana` · `Loki`
 
-### Central de Chamados
+### [Central de Chamados](https://github.com/Matheus-TecDev/central-chamados)
 
-A full-stack internal support and ticket management platform with role-based workflows, audit trails, attachments, operational dashboards, automated tests, and containerized infrastructure.
+Internal service desk platform with role-based ticket workflows, audit trails, comments, attachments, operational dashboards, automated tests, and containerized infrastructure.
 
-[View repository](https://github.com/Matheus-TecDev/central-chamados)
+`FastAPI` · `PostgreSQL` · `React` · `Docker` · `Nginx` · `GitHub Actions`
+
+## GitHub Activity
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Matheus Freire's GitHub statistics" />
+</p>
+
+[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-TecDev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## Contact
 
-- GitHub: [Matheus-TecDev](https://github.com/Matheus-TecDev)
-- LinkedIn: [matheusfreiredev](https://www.linkedin.com/in/matheusfreiredev/)
-- Email: matheus.tecnodev@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/matheusfreiredev/"><img src="https://img.shields.io/badge/LinkedIn-Matheus_Freire-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matheus.tecnodev@gmail.com"><img src="https://img.shields.io/badge/Email-matheus.tecnodev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://matheus-freire-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_site-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
