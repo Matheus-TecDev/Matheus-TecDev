@@ -1,27 +1,39 @@
 # Matheus Freire
 
-**Backend • Infraestrutura • Deploy**
+**Backend • Infrastructure • Deployment**
 
-Atuo com desenvolvimento, infraestrutura, suporte, redes, bancos de dados e deploys.  
-Meu foco é evoluir para Backend, Arquitetura, Linux, Docker, Cloud, Segurança, Observabilidade e DevOps.
+I work across software development, infrastructure, technical support, networking, databases, and application deployments.  
+My focus is building deeper expertise in backend engineering, software architecture, Linux, Docker, cloud computing, security, observability, and DevOps.
 
-## Stack principal
+## Core Stack
 
-**Backend:** Python, FastAPI, APIs REST, JWT  
-**Infraestrutura:** Linux, Docker, Docker Compose, Nginx  
-**Banco de Dados:** PostgreSQL, MySQL, Firebird, SQL  
+**Backend:** Python, FastAPI, REST APIs, JWT  
+**Infrastructure:** Linux, Docker, Docker Compose, Nginx  
+**Databases:** PostgreSQL, MySQL, Firebird, SQL  
 **Frontend:** React, Vite, JavaScript, TypeScript  
-**Em evolução:** AWS, CI/CD, Segurança, Observabilidade
+**Currently advancing:** AWS, CI/CD, security, and observability
 
-## Projeto em destaque
+## Featured Projects
+
+### Relay
+
+An event-driven platform for reliable asynchronous processing, featuring Transactional Outbox, RabbitMQ workers, retries, a Dead Letter Queue, idempotent consumers, distributed tracing, metrics, centralized logs, and alerting.
+
+[View repository](https://github.com/Matheus-TecDev/Relay)
+
+### Sentinela
+
+A full-stack monitoring platform for APIs and internal services, with scheduled health checks, incident tracking, webhook notifications, role-based access control, and an integrated observability stack.
+
+[View repository](https://github.com/Matheus-TecDev/Sentinela)
 
 ### Central de Chamados
 
-Sistema próprio para abertura, acompanhamento e gestão de chamados, estruturado com frontend, backend, PostgreSQL, Alembic, Docker Compose e Nginx, com preparação para deploy em VPS Linux.
+A full-stack internal support and ticket management platform with role-based workflows, audit trails, attachments, operational dashboards, automated tests, and containerized infrastructure.
 
-[Repositório](https://github.com/Matheus-TecDev/central-chamados)
+[View repository](https://github.com/Matheus-TecDev/central-chamados)
 
-## Contato
+## Contact
 
 - GitHub: [Matheus-TecDev](https://github.com/Matheus-TecDev)
 - LinkedIn: [matheusfreiredev](https://www.linkedin.com/in/matheusfreiredev/)
