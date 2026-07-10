@@ -46,13 +46,13 @@ Event-driven processing platform with Transactional Outbox, RabbitMQ domain work
 
 `FastAPI` · `RabbitMQ` · `PostgreSQL` · `Redis` · `OpenTelemetry` · `Prometheus` · `Grafana`
 
-### [Sentinela](https://github.com/Matheus-TecDev/Sentinela)
+### [Sentinel](https://github.com/Matheus-TecDev/Sentinel)
 
 Full-stack monitoring platform for APIs and internal services with scheduled health checks, incident tracking, webhook notifications, RBAC, metrics, and centralized logs.
 
 `FastAPI` · `PostgreSQL` · `APScheduler` · `Docker` · `Prometheus` · `Grafana` · `Loki`
 
-### [Central de Chamados](https://github.com/Matheus-TecDev/central-chamados)
+### [TicketOps](https://github.com/Matheus-TecDev/TicketOps)
 
 Internal service desk platform with role-based ticket workflows, audit trails, comments, attachments, operational dashboards, automated tests, and containerized infrastructure.
 
