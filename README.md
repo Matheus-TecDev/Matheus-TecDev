@@ -6,6 +6,12 @@ I build backend systems and production-oriented infrastructure using Python, Fas
 
 My work focuses on reliable APIs, asynchronous processing, observability, security, and cloud-native architecture.
 
+## Certification
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/19345c68-45b8-4f0f-ac74-972872d1b79d/public_url)
+
+Issued July 2026 · Valid through July 2029 · [Verify credential](https://www.credly.com/badges/19345c68-45b8-4f0f-ac74-972872d1b79d/public_url)
+
 ## Technology Stack
 
 **Backend and data**
